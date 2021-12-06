@@ -1,0 +1,3 @@
+1、条形码识别可用Java的spire.barcode、和google.zxing和python的 pyzbar和cv2
+2、当出现Java版本或者位置问题的时候检查maven中的importing和running、Java compile、Project Structure中的Project、Module和SDK。
+3、出现问题就去查，就去解决一定能够处理好的。
